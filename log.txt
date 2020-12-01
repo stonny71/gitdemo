@@ -1,0 +1,6 @@
+     °°°
+       °°
+         °°°°°°°
+i am a log text........
+open gitignore, you will see 
+i am prevented to be committed.
